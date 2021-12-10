@@ -1,5 +1,5 @@
 ### Hi there 👋
-坐标南京，在线求职🤔。熟悉angular flutter java 小程序等。希望以angular为主
+坐标南京，在线求职🤔。熟悉angular vue flutter java 小程序等。希望以angular为主
 <!--
 **huajian123/huajian123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
